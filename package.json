@@ -10,8 +10,13 @@
   "author": "Alvaro \u001b[A D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C Delgadillo",
   "license": "MIT",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.17.1",
+    "crypto": "0.0.3",
     "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.18.1",
     "mongoose": "^4.9.5"
   },
   "devDependencies": {
